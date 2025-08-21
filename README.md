@@ -18,9 +18,7 @@ The goal: Become a **modern, 10x hireable cybersecurity analyst** in 2025 — SO
 - Practical **alert investigation reports** & GitHub portfolio  
 - Ability to **write detection rules** (Sigma, KQL, SPL)  
 - Cloud & container security basics + Zero Trust fundamentals  
-- Awareness of GRC & compliance frameworks (NIST, ISO, SOC2)  
-- Job-ready for roles: **SOC Analyst, MDR/XDR Analyst, Threat Hunter (Junior), Cloud Security Analyst**  
-
+- Awareness of GRC & compliance frameworks (NIST, ISO, SOC2) 
 ---  
 
 **Core Tools & Domains**  
