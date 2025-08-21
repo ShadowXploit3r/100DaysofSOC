@@ -21,14 +21,7 @@ The goal: Become a **modern, 10x hireable cybersecurity analyst** in 2025 — SO
 - Awareness of GRC & compliance frameworks (NIST, ISO, SOC2)  
 - Job-ready for roles: **SOC Analyst, MDR/XDR Analyst, Threat Hunter (Junior), Cloud Security Analyst**  
 
----
-
-## 🛠️ Tech Stack & Skills
-**Languages / Scripting**  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
+---  
 
 **Core Tools & Domains**  
 - SIEM (Splunk, Sentinel, ELK)  
